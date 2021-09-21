@@ -19,8 +19,8 @@
 * How to define similarity between two movies
     * If one user rated two movies, these two are related
     
-* co-occurrence matrix:
-    * A co-occurrence matrix is a matrix that is defined over an image to be the distribution of co-occurring pixel values (grayscale values, or colors) at agiven offset.
+* Co-Occurrence matrix:
+    * A co-occurrence matrix is a matrix that is defined over an image to be the distribution of co-occurring pixel values (grayscale values, or colors) at a given offset.
 
 
 <p align="center">
