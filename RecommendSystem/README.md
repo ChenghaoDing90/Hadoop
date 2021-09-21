@@ -22,15 +22,5 @@
 * Co-Occurrence matrix:
     * A co-occurrence matrix is a matrix that is defined over an image to be the distribution of co-occurring pixel values (grayscale values, or colors) at a given offset.
 
+Five MapReducer used:
 
-<p align="center">
-<img src="./results/Screenshot from 2021-09-10 15-22-36.png"  style="width:1200px;height:400px;" />
-</p>
-
-<p align="center">
-<img src="./results/Screenshot from 2021-09-10 15-24-34.png"  style="width:800px;height:300px;" />
-</p>
-
-<p align="center">
-<img src="./results/Screenshot from 2021-09-10 15-25-32.png"  style="width:1200px;height:400px;" />
-</p>
