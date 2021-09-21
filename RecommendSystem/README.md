@@ -24,4 +24,4 @@
 
 Five MapReducer used:
 
-<img src="./results/Screenshot from 2021-09-10 15-22-36.png" alt="The recognition accuracy" style="width:300px;height:300px;" />
+<img src="./results/Screenshot from 2021-09-10 15-22-36.png" alt="The recognition accuracy" style="width:1200px;height:300px;" />
